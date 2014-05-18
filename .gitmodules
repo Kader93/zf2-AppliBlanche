@@ -1,0 +1,3 @@
+[submodule "module/DynamicForm"]
+	path = module/DynamicForm
+	url = https://github.com/Kader93/DynamicForm.git
